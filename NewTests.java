@@ -1,7 +1,10 @@
 package com.company;
 
 public class NewTests {
-
+    
+    /**
+     * asdasd
+     */
     public NewTests() {
     }
 
