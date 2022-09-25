@@ -3,11 +3,15 @@ package com.company;
 public class NewTests {
     
     /**
-     * asdasd
+     * My comment goes here
+     *
      */
     public NewTests() {
     }
-
+    
+    /**
+     * Initialize variable with value
+     */
     private  int a = 15;
 
     
