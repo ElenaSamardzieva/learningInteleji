@@ -10,6 +10,7 @@ public class NewTests {
 
     private  int a = 15;
 
+    
     public int getA() {
         return a;
     }
